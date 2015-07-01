@@ -1,4 +1,21 @@
 {
-  "name": "application-name",
-  "version": "0.0.1"
+  "name": "object-oriented-extension",
+  "version": "0.0.0",
+  "description": "Provides support for \"protected\" fields/methods without conventions.",
+  "author": "Kirill Saksin <kirillsaksin@yandex.ru>",
+  "main": "ObjectOriented/JsExtention.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saksmt/object-oriented-extention"
+  },
+  "bugs": {
+    "url": "https://github.com/saksmt/object-oriented-extension/issues"
+  },
+  "keywords": [
+    "OOP",
+    "protected",
+    "object",
+    "class"
+  ],
+  "license": "MIT"
 }
